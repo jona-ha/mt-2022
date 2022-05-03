@@ -1,4 +1,4 @@
 ---
-share: true
+share: True
 category: Titel 1
 ---
