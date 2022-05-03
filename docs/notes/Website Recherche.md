@@ -7,9 +7,9 @@ sources [^1]
 [^1]: [Best Fashion Design Schools in the World in 2022 - MastersPortal.com](https://www.mastersportal.com/articles/2780/best-fashion-design-schools-in-the-world-in-2022.html)
 
 ## Europe
-- [Istituto Marangoni – Milano, Italy](Istituto%20Marangoni%20–%20Milano,%20Italy.md)
-- [Accademia Costume & Moda – Milano, Italy](Accademia%20Costume%20&%20Moda%20–%20Milano,%20Italy.md)
-- [Istituto Europeo di Design – Milano, Italy](Istituto%20Europeo%20di%20Design%20–%20Milano,%20Italy.md)
+- [[Istituto Marangoni – Milano, Italy]]
+- [[Accademia Costume & Moda – Milano, Italy]]
+- [[Istituto Europeo di Design – Milano, Italy]]
 - [Accademia Koefia – Rome, Italy](Accademia%20Koefia%20–%20Rome,%20Italy.md)
 - [Polimoda – Florence, Italy](Polimoda%20–%20Florence,%20Italy.md)
 - [Institut Français de la Mode – Paris, France](Institut%20Français%20de%20la%20Mode%20–%20Paris,%20France.md)
