@@ -31,3 +31,7 @@
   background-color: rgb(43, 155, 70);
   -webkit-mask-image: var(--md-admonition-icon--dictionnary);
           mask-image: var(--md-admonition-icon--dictionnary);
+	
+.md-content {
+  --md-typeset-a-color: #63de17;
+}
