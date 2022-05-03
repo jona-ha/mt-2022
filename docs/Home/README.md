@@ -1,6 +1,5 @@
 ---
-share: true
+share: True
 category: Home
 ---
-
 Testpage
