@@ -48,4 +48,3 @@ sources [^1]
 # Interesting Other
 - [Kunstinstituut Melly](https://www.kunstinstituutmelly.nl/en/)
 - [TASMEEM DOHA 2022 / RADICAL FUTURES](https://radicalfutures.qatar.vcu.edu/)
--
