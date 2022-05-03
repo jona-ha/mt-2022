@@ -1,8 +1,7 @@
 ---
-share: true
+share: True
 category: Research
 ---
-
 [Zum Fragebogen mit Ergebnissen](https://docs.google.com/forms/d/1dn6PpQ5EzM-uXsmojFOuvDnlC4d7JwK7HM8gMNXd6XU/edit?usp=sharing)
 
 # An alle Studienbewerber*innen:
