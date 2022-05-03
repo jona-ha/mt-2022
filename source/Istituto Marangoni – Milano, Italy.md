@@ -1,0 +1,9 @@
+---
+share: true
+---
+
+[[https://www.istitutomarangoni.com/en]]
+
+![](2022-03-22%2012.23.37.png)
+
+#FashionGraduation
