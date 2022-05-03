@@ -1,8 +1,7 @@
 ---
-share: true
+share: True
 category: Research
 ---
-
 Bisher wird die gesamte Doku im Textil auf Print ausgerichtet. Manchmal gibt es Videos.
 
 Das heißt es gibt: 
