@@ -1,6 +1,5 @@
 ---
 share: true
-category: Research/Websites
 title: Istituto Marangoni – Milano, Italy
 ---
 
