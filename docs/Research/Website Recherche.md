@@ -46,5 +46,16 @@ sources [^1]
 - [[Ader Error]]
 
 ## Interesting Other
-- [[https://www.kunstinstituutmelly.nl/en/]]
-- [[https://radicalfutures.qatar.vcu.edu/]]
+- [https://www.kunstinstituutmelly.nl/en/](https://www.kunstinstituutmelly.nl/en/)
+- [https://www.nrw-forum.de/](https://www.nrw-forum.de/)
+- [https://www.kaleidoscope.media/](https://www.kaleidoscope.media/)
+- [https://www.spaziomaiocchi.com/](https://www.spaziomaiocchi.com/
+- [https://transmediale.de/de](https://transmediale.de/de)
+- [https://www.dazeddigital.com/beauty](https://www.dazeddigital.com/beauty
+
+### Spannendes Detail
+- [https://radicalfutures.qatar.vcu.edu/](https://radicalfutures.qatar.vcu.edu/)
+- [https://www.nrw-forum.de/ausstellungen/cute](https://www.nrw-forum.de/ausstellungen/cute)
+- [https://buffalozine.com/](https://buffalozine.com/)
+- [https://adbk-nuernberg.de/studium/ma-live-art-forms/](https://adbk-nuernberg.de/studium/ma-live-art-forms/)
+- [https://tuinvanmachines.hetnieuweinstituut.nl/en](https://tuinvanmachines.hetnieuweinstituut.nl/en)
