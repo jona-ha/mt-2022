@@ -21,7 +21,7 @@ sources [^1]
 - [[ESMOD – France]]
 - [[STUDIO BERÇOT – Paris, France]]
 - [[University of Westminster – London, UK]]
-- 🔎 [Central Saint Martins – London, UK](Central%20Saint%20Martins%20–%20London,%20UK.md)
+- 🔎 [[Central Saint Martins – London, UK]]
 - 🔎 [London College of Fashion – London, UK](London%20College%20of%20Fashion%20–%20London,%20UK.md)
 - [Royal College of Art – London, UK](Royal%20College%20of%20Art%20–%20London,%20UK.md)
 - [Manchester School of Art – Manchester, UK](Manchester%20School%20of%20Art%20–%20Manchester,%20UK.md)
