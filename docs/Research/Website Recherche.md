@@ -13,14 +13,14 @@ sources [^1]
 - [[Istituto Marangoni_ Milano-Italy]]
 - [[Accademia Costume & Moda – Milano, Italy]]
 - [[Istituto Europeo di Design – Milano, Italy]]
-- [Accademia Koefia – Rome, Italy](Accademia%20Koefia%20–%20Rome,%20Italy.md)
-- [Polimoda – Florence, Italy](Polimoda%20–%20Florence,%20Italy.md)
-- [Institut Français de la Mode – Paris, France](Institut%20Français%20de%20la%20Mode%20–%20Paris,%20France.md)
-- [Paris College of Art – France](Paris%20College%20of%20Art%20–%20France.md)
-- [ESMOD – France](ESMOD%20–%20France.md)
-- [STUDIO BERÇOT – Paris, France](STUDIO%20BERÇOT%20–%20Paris,%20France.md)
-- [University of Westminster – London, UK](University%20of%20Westminster%20–%20London,%20UK.md)
-- 🔎 [Central Saint Martins – London, UK](Central%20Saint%20Martins%20–%20London,%20UK.md)
+- [[Accademia Koefia – Rome, Italy]]
+- [[Polimoda – Florence, Italy]]
+- [[Institut Français de la Mode – Paris, France]]
+- [[Paris College of Art – France]]
+- [[ESMOD – France]]
+- [[STUDIO BERÇOT – Paris, France]]
+- [[University of Westminster – London, UK]]
+- 🔎 [[Central Saint Martins – London, UK]]
 - 🔎 [London College of Fashion – London, UK](London%20College%20of%20Fashion%20–%20London,%20UK.md)
 - [Royal College of Art – London, UK](Royal%20College%20of%20Art%20–%20London,%20UK.md)
 - [Manchester School of Art – Manchester, UK](Manchester%20School%20of%20Art%20–%20Manchester,%20UK.md)
