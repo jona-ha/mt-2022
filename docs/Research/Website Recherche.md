@@ -49,9 +49,11 @@ sources [^1]
 - [https://www.kunstinstituutmelly.nl/en/](https://www.kunstinstituutmelly.nl/en/)
 - [https://www.nrw-forum.de/](https://www.nrw-forum.de/)
 - [https://www.kaleidoscope.media/](https://www.kaleidoscope.media/)
-- [https://www.spaziomaiocchi.com/](https://www.spaziomaiocchi.com/
+- [https://www.spaziomaiocchi.com/](https://www.spaziomaiocchi.com/)
 - [https://transmediale.de/de](https://transmediale.de/de)
-- [https://www.dazeddigital.com/beauty](https://www.dazeddigital.com/beauty
+- [https://www.dazeddigital.com/beauty](https://www.dazeddigital.com/beauty)
+- [https://futuress.org/](https://futuress.org/)
+- [https://ringring.burg-halle.de/](https://ringring.burg-halle.de/)
 
 ### Spannendes Detail
 - [https://radicalfutures.qatar.vcu.edu/](https://radicalfutures.qatar.vcu.edu/)
