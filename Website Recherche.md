@@ -68,3 +68,4 @@ sources [^1]
 - [https://adbk-nuernberg.de/studium/ma-live-art-forms/](https://adbk-nuernberg.de/studium/ma-live-art-forms/)
 - [https://tuinvanmachines.hetnieuweinstituut.nl/en](https://tuinvanmachines.hetnieuweinstituut.nl/en)
 - [https://thefunambulist.net/account](https://thefunambulist.net/account)
+- [https://fyihenriksson.com/](https://fyihenriksson.com/)
